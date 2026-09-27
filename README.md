@@ -28,9 +28,9 @@ A beginner-friendly Python project that calculates a student's total marks, perc
 
 1. Make sure Python 3 is installed.
 2. Clone this repository:
-3.Open the project folder:
+-3.Open the project folder:
 cd student-grade-calculator
-4.Run the program:
+-4.Run the program:
 python student_grades_calculator.py
 💻 Example
 ===== Student Grade Calculator =====
